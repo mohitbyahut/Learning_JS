@@ -1,0 +1,23 @@
+div{
+    margin: auto;
+    margin-top: 1rem;
+    display: flex;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    background-color: gold;
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    background-color: rgb(68, 36, 147);
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    background-color: rgb(28, 149, 224);
+}
